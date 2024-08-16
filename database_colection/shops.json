@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "64508d7280f1ec4fa433a623"
+  },
+  "item": "Liverpool Men's Soccer Jersey",
+  "description": "The Liverpool FC Stadium Home Jersey features highly breathable fabric to help keep sweat off your skin while you cheer for your team. This product is made with at least 75% recycled polyester fibers.  Shown: Gym Red/Bright Crimson/Fossil Style: DB2560-688",
+  "price": 99,
+  "quantity": 20,
+  "category": "men",
+  "created_by": {
+    "$oid": "644f6a10677337001ce01dc5"
+  },
+  "sold": 0,
+  "image_url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/aea90a72-d19c-45fa-9751-61c11593ee1d/liverpool-fc-2021-22-stadium-home-mens-soccer-jersey-tR8vRS.png",
+  "createdAt": {
+    "$date": "2023-05-02T04:11:30.986Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T04:11:30.986Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64508db580f1ec4fa433a627"
+  },
+  "item": "Liverpool Pullover Hoodie ",
+  "description": "Liverpool Nike Therma Performance Pullover Hoodie - Red",
+  "price": 75,
+  "quantity": 20,
+  "category": "men",
+  "created_by": {
+    "$oid": "644f6a10677337001ce01dc5"
+  },
+  "sold": 0,
+  "image_url": "https://fanatics.frgimages.com/liverpool/mens-nike-red-liverpool-therma-performance-pullover-hoodie_pi4990000_ff_4990449-119d43967fc191cb0ab9_full.jpg?_hv=2&w=340",
+  "createdAt": {
+    "$date": "2023-05-02T04:12:37.539Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T04:12:37.539Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64508dd980f1ec4fa433a62b"
+  },
+  "item": "Liverpool Vest",
+  "description": "Liverpool Nike Full-Zip Vest - Gray",
+  "price": 125,
+  "quantity": 17,
+  "category": "men",
+  "created_by": {
+    "$oid": "644f6a10677337001ce01dc5"
+  },
+  "sold": 3,
+  "image_url": "https://fanatics.frgimages.com/liverpool/mens-nike-gray-liverpool-full-zip-vest_ss5_p-4962449+u-bqrygweuh274v2w8efut+v-9xby9fxwsxqiwukzs9xq.jpg?_hv=2&w=340",
+  "createdAt": {
+    "$date": "2023-05-02T04:13:13.408Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T04:59:09.671Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64508e2880f1ec4fa433a62f"
+  },
+  "item": " Liverpool P Cap",
+  "description": "Nike Campus Adjustable Hat - Black Most Popular in Hats",
+  "price": 27,
+  "quantity": 39,
+  "category": "men",
+  "created_by": {
+    "$oid": "644f6a10677337001ce01dc5"
+  },
+  "sold": 1,
+  "image_url": "https://fanatics.frgimages.com/liverpool/mens-nike-black-liverpool-campus-adjustable-hat_pi4869000_ff_4869412-2b2388363b15e667adf5_full.jpg?_hv=2&w=340",
+  "createdAt": {
+    "$date": "2023-05-02T04:14:32.037Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T04:59:09.733Z"
+  },
+  "__v": 0
+}]

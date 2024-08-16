@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "644f6a10677337001ce01dc5"
+  },
+  "first_name": "Shuaib",
+  "last_name": "Khalid2",
+  "email": "admin@fc.com",
+  "phone": "+923046212929",
+  "date_of_birth": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "gender": "male",
+  "role": "admin",
+  "password": "$2a$10$Lm9a3FrWPa..nka/EmAat.LhcgfFhhve2nWbyj6doQyxXMPT6nf12",
+  "createdAt": {
+    "$date": "2023-05-01T07:28:17.030Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T07:38:38.021Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645092e580f1ec4fa433a654"
+  },
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "johndoe@gmail.com",
+  "phone": "+923046212929",
+  "date_of_birth": {
+    "$date": "2023-05-02T00:00:00.000Z"
+  },
+  "gender": "male",
+  "role": "user",
+  "password": "$2a$10$6kTK9Kzxv5W4CQ.dG/7dp.ZV7cy10jQYlXnzZhnzfk0rBPdKy9QI2",
+  "createdAt": {
+    "$date": "2023-05-02T04:34:45.267Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T04:34:45.267Z"
+  },
+  "__v": 0
+}]

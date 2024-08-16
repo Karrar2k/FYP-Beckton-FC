@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "645099e46b8a501fc02b1e18"
+  },
+  "tickets": [
+    {
+      "ticket": {
+        "$oid": "6450923c80f1ec4fa433a63f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "645099e46b8a501fc02b1e19"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "645092e580f1ec4fa433a654"
+  },
+  "total_amount": 50,
+  "products": [],
+  "status": "success",
+  "shipping_details": {
+    "address1": "rue",
+    "address2": "true",
+    "city": "yubj",
+    "state": "kdj",
+    "country": "kjda",
+    "zip": "1234"
+  },
+  "createdAt": {
+    "$date": "2023-05-02T05:04:36.142Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T19:11:19.079Z"
+  },
+  "__v": 0
+}]
